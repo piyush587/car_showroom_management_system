@@ -1,26 +1,40 @@
-# car_showroom_management_system
-A Java console-based Car Showroom Management System using OOP concepts. It allows adding and viewing Showrooms, Employees, and Cars through a menu-driven interface. Demonstrates basic object-oriented programming with simple input handling.
+# 🚗 Car Showroom Management System
 
-🚗 Car Showroom Management System (Java Console Application)
-This is a basic Car Showroom Management System developed in Java using OOP concepts and console-based menus. The system allows you to:
+A **Java console-based** Car Showroom Management System using **Object-Oriented Programming (OOP)** concepts. This system allows you to manage and view showrooms, employees, and cars using a simple, menu-driven interface.
 
-Add and view Showrooms
+🧠 OOP Concepts Demonstrated
+✅ Classes and Objects
 
-Add and view Employees
+✅ Interfaces
 
-Add and view Cars
+✅ Abstraction
 
-📦 Features
-Menu-driven interface
+✅ Method Overriding
 
-Uses interfaces and classes to demonstrate OOP
+✅ Arrays and Loops
 
-Array-based data storage
+## 📋 Features
 
-Simple input validation
+- 🏢 Add & View Showrooms  
+- 👨‍💼 Add & View Employees  
+- 🚘 Add & View Cars  
+- 📜 Menu-driven interface  
+- ⚙️ Array-based data storage  
+- 🧠 Demonstrates OOP concepts (Interfaces, Classes, Methods)  
+- 🔒 Simple input validation  
 
-👨‍💻 Technologies Used
-Java
+---
 
-Command-line interface (CLI)
+## 📂 Technologies Used
 
+- **Java**
+- **Command-line Interface (CLI)**
+
+---
+
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/piyush587/car_showroom_management_system.git
